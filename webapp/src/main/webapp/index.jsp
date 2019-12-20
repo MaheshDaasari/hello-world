@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on ansible server </h2>
+<h1> Hello, Welcome to incedo Jenkins server !!! </h1>
+<h2> Deploying on tomcat server </h2>
